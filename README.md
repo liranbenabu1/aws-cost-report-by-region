@@ -14,5 +14,9 @@ required package: boto3
 
 must access and secret key to aws with relevant permmision
 
+to run the script please run the command:
+
+python used_services.py --region us-east-1 --days 30
+
 thanks
 
